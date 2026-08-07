@@ -1,0 +1,23 @@
+2026-08-07 11:30:31.449633:Incoming Request:http://127.0.0.1:8000/
+2026-08-07 11:30:31.459934:Response Status:200
+2026-08-07 11:30:34.372440:Incoming Request:http://127.0.0.1:8000/favicon.ico
+2026-08-07 11:30:34.373440:Response Status:404
+2026-08-07 11:30:42.336274:Incoming Request:http://127.0.0.1:8000/
+2026-08-07 11:30:42.339275:Response Status:200
+2026-08-07 11:30:59.009712:Incoming Request:http://127.0.0.1:8000/
+2026-08-07 11:30:59.014066:Response Status:200
+2026-08-07 11:31:08.684135:Incoming Request:http://127.0.0.1:8000/GET/
+2026-08-07 11:31:08.686138:Response Status:404
+2026-08-07 11:32:23.734023:Incoming Request:http://127.0.0.1:8000/
+2026-08-07 11:32:23.736359:Response Status:200
+2026-08-07 11:32:32.260990:Incoming Request:http://127.0.0.1:8000/docs
+2026-08-07 11:32:32.267225:Response Status:200
+2026-08-07 11:32:32.709006:Incoming Request:http://127.0.0.1:8000/openapi.json
+2026-08-07 11:32:32.737678:Response Status:200
+2026-08-07 11:33:55.661890:Incoming Request:http://127.0.0.1:8000/chat?question=Hello
+2026-08-07 11:33:55.669028:Response Status:400
+2026-08-07 11:34:00.613281:Incoming Request:http://127.0.0.1:8000/chat?question=Hello
+2026-08-07 11:34:00.615806:Response Status:400
+2026-08-07 11:36:49.678120:Incoming Request:http://127.0.0.1:8000/chat?question=Hello
+2026-08-07 11:36:49.678597:Hello
+2026-08-07 11:36:49.681116:Response Status:200
