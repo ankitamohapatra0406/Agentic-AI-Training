@@ -1,0 +1,15 @@
+Artificial Intelligence (AI) is a field of computer science focused on creating systems that can perform tasks that normally require human intelligence.
+
+Machine Learning (ML) is a subset of AI. It allows computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every situation.
+
+Deep Learning is a subset of Machine Learning that uses neural networks with multiple layers. It is commonly used for image recognition, speech recognition, and natural language processing.
+
+Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with a language model. Instead of relying only on the knowledge stored in the model, RAG retrieves relevant information from an external knowledge base and provides it to the language model as context.
+
+Embeddings are numerical representations of text. Similar pieces of text have similar embeddings, which allows systems to perform semantic search.
+
+A vector database stores these embeddings and allows applications to efficiently find information that is semantically similar to a user's query.
+
+LangChain is a framework for building applications powered by large language models. It provides components for prompts, models, document loaders, retrievers, and chains.
+
+LangGraph is a framework for building stateful applications and agent workflows using graphs. It is useful for creating multi-step and multi-agent AI systems.
